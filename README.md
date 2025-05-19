@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd8430c2-da66-4598-8d89-b38750d1c483)Team member: Mahmoud Adel Mohamed      and   heba Mohamed alsaad 
+Team member: Mahmoud Adel Mohamed      and   heba Mohamed alsaad 
 Story of dashboard
 1-Strategic price optimization can significantly improve profit margins without hurting sales  by leveraging product elasticity insights and competitive pricing intelligence.
 
@@ -133,8 +133,11 @@ select product_id,avg(unit_price) as price , avg(min_price_competitor) as avg_mi
 from pric_product
 group by product_id
 
+![image](https://github.com/user-attachments/assets/8c94f70d-5f2c-4773-bed5-53b1ea36ad23)
 
 
+![image](https://github.com/user-attachments/assets/aa7f1e8b-a5ca-451d-8478-36d518985203)
 
 
+![image](https://github.com/user-attachments/assets/0a6c9c46-fb22-4a04-ab09-5b53a8ea5a45)
 
